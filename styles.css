@@ -1,0 +1,29 @@
+*{
+    background-color: black;
+    color: white;
+}
+.container{
+    width: 60%;
+    margin: 0 20%;
+    text-align: center;
+}
+h1, h2, #ready, h3{
+    text-align: center;
+    color: red;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border: 2px solid white;
+}
+    .container #boxes{
+        width: 15%;
+        border: 1px solid black;
+        display: inline-block;
+    }
+#ready{
+    margin: 20px;
+    padding: 20px;
+    background-color: red;
+    color: white;
+}
